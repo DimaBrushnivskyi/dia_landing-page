@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Dia layout SCSS
 1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+2. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+    - [DEMO LINK](https://DimaBrushnivskyi.github.io/dia_landing-page/)
+3. Implement Dia layout, using Figma, SCSS, BEM
